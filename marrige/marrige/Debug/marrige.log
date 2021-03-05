@@ -1,0 +1,3 @@
+﻿  solve.cpp
+c:\users\hp\desktop\marrige\marrige\solve.cpp(23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  marrige.vcxproj -> C:\Users\HP\Desktop\marrige\Debug\marrige.exe

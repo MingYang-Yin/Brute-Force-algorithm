@@ -1,0 +1,3 @@
+﻿  solve.cpp
+c:\users\hp\desktop\tsp\tsp\solve.cpp(25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  TSP.vcxproj -> C:\Users\HP\Desktop\TSP\Debug\TSP.exe
